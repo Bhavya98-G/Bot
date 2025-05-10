@@ -19,13 +19,12 @@ A Streamlit-based RAG (Retrieval-Augmented Generation) chatbot that allows users
 - [Streamlit](https://streamlit.io/) – Interactive web app framework.
 - [LlamaIndex](https://llamaindex.ai/) – Retrieval & query engine for unstructured data.
 - [PyMuPDF](https://pymupdf.readthedocs.io/) – Fast PDF text extraction.
-- [dotenv](https://pypi.org/project/python-dotenv/) – Environment variable support.
-
+  
 ---
 
 ## 📦 Installation
 
-1. **Clone the repository**:
+**Clone the repository**:
 
 ```bash
 git clone https://github.com/yourusername/chat-with-applicant-docs.git
